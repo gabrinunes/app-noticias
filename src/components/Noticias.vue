@@ -27,7 +27,7 @@ export default {
          return {
              news:[],
              search:'',
-             API_KEY:'dc98e06600f84cebb1fdb9130a200e9d',
+             API_KEY:'YOUR API KEY HERE',
              alert: false
          }
      },
