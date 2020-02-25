@@ -1,5 +1,7 @@
 # noticiasapp
 
+#App feito com o framework Vue.js,que consome uma api de noticias no caso foi usado a api:newsapp
+
 ## Project setup
 ```
 yarn install
